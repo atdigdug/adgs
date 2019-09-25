@@ -1,0 +1,13 @@
+giftsub:
+    name: production
+    claimbuttonurl: https://static.wixstatic.com/media/c49982_d72271f626274096bc01cddac2a7878c~mv2.png/v1/fill/w_151,h_137,al_c,lg_1/c49982_d72271f626274096bc01cddac2a7878c~mv2.png
+    freemarker:
+        resourcedir: resources
+    mail:
+        host: email-smtp.us-east-1.amazonaws.com
+        iamusername: ses-smtp-user.20180316-125231
+        username: AKIAIVLWUDDKHW3HAOYA
+        password: AlnsKzcXv5M5aH2EHvjMnt8tDr2hemzujO72dyzPki6O
+        port: 465
+        protocol: smtps
+        
